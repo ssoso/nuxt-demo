@@ -1,6 +1,7 @@
-# schools_admin
+# nuxt.js project
 
-> schools_admin Fe nuxt.js project
+> s3 File uploader Sample
+> moment.js commonCalendar Sample 
 
 ## Build Setup
 
