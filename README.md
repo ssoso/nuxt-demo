@@ -1,8 +1,10 @@
 # nuxt.js project
 
-> s3 File uploader Sample
+> nuxt 기본구조 test.
 
-> moment.js commonCalendar Sample 
+> s3 File uploader Sample.
+
+> moment.js commonCalendar Sample.
 
 ## Build Setup
 
